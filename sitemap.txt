@@ -1,0 +1,10 @@
+
+http://erlang-platform.org/sitemap.txt
+http://erlang-platform.org/tags.html
+http://erlang-platform.org/archive.html
+http://erlang-platform.org/index.html
+http://erlang-platform.org/atom.xml
+http://erlang-platform.org/pages.html
+http://erlang-platform.org/categories.html
+
+http://erlang-platform.org/lessons/2011/12/29/jekyll-introduction
